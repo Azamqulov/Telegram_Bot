@@ -1,0 +1,4 @@
+python-telegram-bot==21.1
+firebase-admin
+python-dotenv
+google-cloud-firestore
